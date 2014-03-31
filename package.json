@@ -1,0 +1,32 @@
+{
+  "name": "landingpage",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "client-backfire": "~0.0.1",
+    "client-firebase": "~0.0.1",
+    "jquery-untouched": "~1.10.2"
+  },
+  "devDependencies": {
+    "client-firebase": "0.0.1",
+    "client-backfire": "0.0.1",
+    "jquery-untouched": "~1.10.2",
+    "backbone": "~1.1.2",
+    "underscore": "~1.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mulderp/landingpage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mulderp/landingpage/issues"
+  },
+  "homepage": "https://github.com/mulderp/landingpage"
+}
